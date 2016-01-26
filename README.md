@@ -1,3 +1,6 @@
+#Tutorial Link
+http://www.codesandnotes.be/2015/09/04/angularjs-web-apps-for-spring-based-rest-services-security-the-client-side/
+
 # secure-rest-angular-tut
 A REST-querying AngularJS client that manages authentication, CORS and CSRF. For experimentation purposes, or to start new projects!
 
